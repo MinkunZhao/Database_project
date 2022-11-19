@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/bgp1.png</file>
+        <file>picture/bgp2.png</file>
+        <file>picture/bgp3.png</file>
+        <file>picture/bgp4.png</file>
+        <file>picture/bgp5.png</file>
+        <file>picture/bgp6.png</file>
+        <file>picture/bgp7.png</file>
+        <file>picture/bgp8.png</file>
+        <file>picture/bgp9.png</file>
+        <file>picture/bgp10.png</file>
+        <file>picture/bgp11.png</file>
+        <file>picture/bgp12.png</file>
+        <file>picture/bgp13.png</file>
+        <file>picture/bgp14.png</file>
+        <file>picture/bgp15.png</file>
+        <file>picture/bgp16.png</file>
+        <file>picture/bgp17.png</file>
+        <file>picture/bgp18.png</file>
+        <file>picture/bgp19.png</file>
+        <file>picture/bgp20.png</file>
+        <file>picture/bgp21.png</file>
+        <file>picture/bgp22.png</file>
+        <file>picture/bgp23.png</file>
+        <file>picture/bgp24.png</file>
+    </qresource>
+</RCC>
